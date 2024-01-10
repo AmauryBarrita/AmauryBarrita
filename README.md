@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola Mundo!🤝 Me llamo Amaury Jeiel</h1>
 <h3 align="center">Soy un Backend en busca de expandir sus conocimientos</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Angular**
+- 🌱 Actualmente estoy aprendiendo **React**
 
 - 💬 Preguntame por **.NET y SQL Server**
 
